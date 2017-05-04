@@ -1,0 +1,7 @@
+com.demshape.factorization.application
+com.demshape.factorization.dataset
+com.demshape.factorization.datastructure
+com.demshape.factorization.lossfunction
+com.demshape.factorization.metric
+com.demshape.factorization.model
+com.demshape.factorization.tools
